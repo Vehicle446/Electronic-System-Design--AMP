@@ -1,0 +1,6 @@
+网页：
+1. 一个单片机ADC的挖坑填坑之旅 https://www.eet-china.com/mp/a17600.html
+
+技术文档：
+1. TI-同相放大器
+2. TI07x系列FET运放 技术手册
