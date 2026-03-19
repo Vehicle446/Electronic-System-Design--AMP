@@ -1,5 +1,7 @@
 网页：
 1. 一个单片机ADC的挖坑填坑之旅 https://www.eet-china.com/mp/a17600.html
+2. 野火STM32开发指南（28. ADC—电压采集） 
+https://doc.embedfire.com/mcu/stm32/f103/hal_general/zh/latest/doc/chapter29/chapter29.html
 
 技术文档：
 1. TI-同相放大器
